@@ -1,3 +1,4 @@
 2025-12-01 01:17:26,138 - INFO - Optuna Training Summary | Start: 2025-12-01 01:17:21 | End: 2025-12-01 01:17:22 | Duration: 1.00 seconds | OPTUNA RMSE: 0.7030 | TEST RMSE: 0.7425 | Model: xgb_base_model_2025-12-01 01-17-22
 2025-12-01 01:20:30,830 - INFO - Optuna Training Summary | Start: 2025-12-01 01:20:27 | End: 2025-12-01 01:20:28 | Duration: 1.00 seconds | OPTUNA RMSE: 0.7026 | TEST RMSE: 0.7415 | Model: xgb_base_model_2025-12-01 01-20-28
 2025-12-01 02:20:07,706 - INFO - Optuna Training Summary | Start: 2025-12-01 02:19:35 | End: 2025-12-01 02:19:35 | Duration: 0.00 seconds | OPTUNA RMSE: 0.7015 | TEST RMSE: 0.7415 | Model: xgb_base_model_2025-12-01 02-19-35
+2025-12-01 03:39:31,586 - INFO - Optuna Training Summary | Start: 2025-12-01 03:39:02 | End: 2025-12-01 03:39:03 | Duration: 1.00 seconds | OPTUNA RMSE: 0.7015 | TEST RMSE: 0.7415 | Model: xgb_base_model_2025-12-01 03-39-03
