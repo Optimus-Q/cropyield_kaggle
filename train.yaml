@@ -1,0 +1,18 @@
+train data: "./data/crop_yield_train.csv"
+features selected: ["soil_moisture", "total_rainfall", "fertilizer_amount", "sunlight_hours", "field_id", "yield_tpha"]
+traindatasplit:
+ - traindatasize: 0.8
+ - splitrandomseed: 42
+optunadatasplit:
+ - traindatasize: 0.4
+ - splitrandomseed: 42
+basemodelparameters:
+ - 'objective': "reg:squarederror"
+ - 'tree_method': "hist"
+ - 'n_estimators': 1000
+ - 'early_stopping': 20
+ - 'seed': 42
+optunaconfig:
+ - 'samplerseed': 42
+ - 'optunadirection': 'minimize'
+ - 'n_trial': 500

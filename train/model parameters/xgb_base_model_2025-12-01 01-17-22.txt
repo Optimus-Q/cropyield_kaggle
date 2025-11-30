@@ -1,0 +1,1 @@
+{'learning_rate': 0.008, 'max_depth': 3, 'min_child_weight': 7, 'gamma': 1.9433864484474102, 'subsample': 0.7085396127095583, 'colsample_bytree': 0.9314950036607718, 'alpha': 3.567533266935893, 'lambda': 2.8093450968738076, 'objective': 'reg:squarederror', 'seed': 42, 'tree_method': 'hist'}
